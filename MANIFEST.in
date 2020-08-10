@@ -1,0 +1,3 @@
+graft toolbox_test
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  toolbox_test/jupy *
